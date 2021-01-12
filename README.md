@@ -1,6 +1,6 @@
-Full-Stack Developer 💻❤️
-Technology Appassionato 🔌💻
-Food Lover 🥗❤️
+<h1>Full-Stack Developer 💻❤️</h1>
+<h1>Technology Appassionato 🔌💻</h1>
+<h1>Food Lover 🥗❤️</h1>
 
 <div> 
   <h1>
