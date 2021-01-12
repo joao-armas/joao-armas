@@ -1,6 +1,10 @@
-<h1>Full-Stack Developer 💻❤️</h1>
-<h1>Technology Appassionato 🔌💻</h1>
-<h1>Food Lover 🥗❤️</h1>
+<h2>Full-Stack Developer 💻❤️</h2>
+<h2>Technology Appassionato 🔌💻</h2>
+<h2>Food Lover 🥗❤️</h2>
+
+<h1></h1>
+<h1></h1>
+<h1></h1>
 
 <div> 
   <h1>
