@@ -1,11 +1,7 @@
 <h2>Full-Stack Developer 💻❤️</h2>
 <h2>Technology Appassionato 🔌💻</h2>
 <h2>Food Lover 🥗❤️</h2>
-
-<h1></h1>
-<h1></h1>
-<h1></h1>
-
+<br>
 <div> 
   <h1>
     Programing Languages
